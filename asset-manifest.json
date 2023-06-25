@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolioWebsite/static/css/main.d488a9a2.css",
+    "main.js": "/portfolioWebsite/static/js/main.ca76b4d4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolioWebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mypic.png": "/portfolioWebsite/static/media/mypic.5c91a1bf940af0083b8a.png",
+    "static/media/Resume.pdf": "/portfolioWebsite/static/media/Resume.832c15100c319278b7ac.pdf",
+    "static/media/python.png": "/portfolioWebsite/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/atom.png": "/portfolioWebsite/static/media/atom.ac9979693620f0a96231.png",
+    "static/media/mysql.png": "/portfolioWebsite/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/nodejs.png": "/portfolioWebsite/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/java.png": "/portfolioWebsite/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/lora-latin-400-normal.woff": "/portfolioWebsite/static/media/lora-latin-400-normal.5911a7bf453ef6cb8fee.woff",
+    "static/media/lora-latin-400-normal.woff2": "/portfolioWebsite/static/media/lora-latin-400-normal.10b891b7e240f01ac150.woff2",
+    "static/media/mongodb_symbol.png": "/portfolioWebsite/static/media/mongodb_symbol.de185945fc63205f488f.png",
+    "static/media/lora-cyrillic-ext-400-normal.woff": "/portfolioWebsite/static/media/lora-cyrillic-ext-400-normal.bb32d1bd026162efff00.woff",
+    "static/media/lora-cyrillic-400-normal.woff": "/portfolioWebsite/static/media/lora-cyrillic-400-normal.1f12dd1007ec92b9106c.woff",
+    "static/media/lora-latin-ext-400-normal.woff": "/portfolioWebsite/static/media/lora-latin-ext-400-normal.0739b6cc0caab727fa6c.woff",
+    "static/media/lora-cyrillic-ext-400-normal.woff2": "/portfolioWebsite/static/media/lora-cyrillic-ext-400-normal.98f484351afaa46c2402.woff2",
+    "static/media/lora-cyrillic-400-normal.woff2": "/portfolioWebsite/static/media/lora-cyrillic-400-normal.4b0e177cde8d303b4176.woff2",
+    "static/media/lora-latin-ext-400-normal.woff2": "/portfolioWebsite/static/media/lora-latin-ext-400-normal.01cdc2a983b56c100ce2.woff2",
+    "static/media/lora-vietnamese-400-normal.woff": "/portfolioWebsite/static/media/lora-vietnamese-400-normal.919e7e262a915e6bc283.woff",
+    "static/media/lora-vietnamese-400-normal.woff2": "/portfolioWebsite/static/media/lora-vietnamese-400-normal.c56b27672a7d06ccd0fc.woff2",
+    "index.html": "/portfolioWebsite/index.html",
+    "main.d488a9a2.css.map": "/portfolioWebsite/static/css/main.d488a9a2.css.map",
+    "main.ca76b4d4.js.map": "/portfolioWebsite/static/js/main.ca76b4d4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolioWebsite/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d488a9a2.css",
+    "static/js/main.ca76b4d4.js"
+  ]
+}
