@@ -1,0 +1,37 @@
+.contact-heading{
+    font-family: "Lato";
+    font-weight: 700;
+    font-size: 42px;
+    text-decoration: underline;
+    /* text-decoration-color: #AD675E; */
+   
+    text-align: center;
+    padding: 0;
+}
+.big-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center; 
+    /* gap:50px;  */
+    gap:0px;
+    padding: 0%;
+    
+   
+    
+}
+
+.big-container-mobile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:20px; 
+    
+}
+.sub-heading{
+    font-family: "Poppins";
+    font-weight: 900;
+    font-size: 32px;
+    text-align: center;
+    padding: 0;
+}

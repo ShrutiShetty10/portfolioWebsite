@@ -1,0 +1,62 @@
+.heading{
+    
+    margin:0;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    
+}
+.heading-mobile{
+    
+    margin:0;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+}
+.sub-heading{
+   margin: 0;
+   font-size:48px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 600;
+
+}
+.main-container{
+    
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.main-container-mobile{
+   
+    
+    flex: 1;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.shadow-img{
+    display:flex;
+    flex-wrap:wrap;
+    box-shadow: "10px 10px 60px 10px rgba(112, 141, 157, 0.3)";
+    
+}
+.para-text{
+    font-size: 30px;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para-text-mobile{
+    font-size: 28px;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}

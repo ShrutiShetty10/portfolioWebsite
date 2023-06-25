@@ -1,0 +1,14 @@
+.contact-icons{
+    display: flex;
+    
+    /* justify-content: center; */
+    gap:35px;
+    
+}
+.contact-icons-mobile{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap:35px;
+    
+}

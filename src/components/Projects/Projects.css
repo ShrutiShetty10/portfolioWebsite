@@ -1,0 +1,32 @@
+
+.projects-heading{
+    font-family: "Lato";
+    font-weight: 700;
+    font-size: 42px;
+    text-decoration: underline;
+    
+    text-align: center;
+    
+}
+.flexbox-project{
+    display:flex;
+    flex-direction: column;
+    gap:30px;
+    flex-wrap: wrap;
+    
+    
+}
+.flexbox-project-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 20;
+    gap:30px;
+    flex: 0 0 50%;
+    
+    
+}
+.item{
+    flex: 1 1 0;
+    width: 0;
+}
