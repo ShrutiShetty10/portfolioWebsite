@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolioWebsite/static/css/main.d488a9a2.css",
-    "main.js": "/portfolioWebsite/static/js/main.ca76b4d4.js",
+    "main.css": "/portfolioWebsite/static/css/main.78049369.css",
+    "main.js": "/portfolioWebsite/static/js/main.4403d925.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolioWebsite/static/js/787.1ed0c42c.chunk.js",
     "static/media/mypic.png": "/portfolioWebsite/static/media/mypic.5c91a1bf940af0083b8a.png",
-    "static/media/Resume.pdf": "/portfolioWebsite/static/media/Resume.832c15100c319278b7ac.pdf",
+    "static/media/Resume.pdf": "/portfolioWebsite/static/media/Resume.93eea552afc57fbbcd5c.pdf",
     "static/media/python.png": "/portfolioWebsite/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/atom.png": "/portfolioWebsite/static/media/atom.ac9979693620f0a96231.png",
     "static/media/mysql.png": "/portfolioWebsite/static/media/mysql.bdbd1eb709e4c13258d2.png",
@@ -22,12 +22,12 @@
     "static/media/lora-vietnamese-400-normal.woff": "/portfolioWebsite/static/media/lora-vietnamese-400-normal.919e7e262a915e6bc283.woff",
     "static/media/lora-vietnamese-400-normal.woff2": "/portfolioWebsite/static/media/lora-vietnamese-400-normal.c56b27672a7d06ccd0fc.woff2",
     "index.html": "/portfolioWebsite/index.html",
-    "main.d488a9a2.css.map": "/portfolioWebsite/static/css/main.d488a9a2.css.map",
-    "main.ca76b4d4.js.map": "/portfolioWebsite/static/js/main.ca76b4d4.js.map",
+    "main.78049369.css.map": "/portfolioWebsite/static/css/main.78049369.css.map",
+    "main.4403d925.js.map": "/portfolioWebsite/static/js/main.4403d925.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolioWebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d488a9a2.css",
-    "static/js/main.ca76b4d4.js"
+    "static/css/main.78049369.css",
+    "static/js/main.4403d925.js"
   ]
 }
