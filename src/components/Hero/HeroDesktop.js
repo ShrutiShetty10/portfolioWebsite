@@ -13,9 +13,9 @@ export default function HeroDesktop({ matches }) {
           <span style={{ color: Colors.secondary, margin: 0 }}>Shruti</span>
         </h3>
 
-        <h2 className="sub-heading">Software Developer</h2>
+        <h2 className="sub-heading">Testing Analyst</h2>
 
-        <h1 className='para-text'>Student at Fr. Conceicao Rodrigues College of Engineering</h1>
+        <h1 className='para-text'>TIAA Global Capabilities, Mumbai</h1>
 
         <h1 className='para-text'>Get to know me</h1>
         <br />

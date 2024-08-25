@@ -8,9 +8,9 @@ export default function AboutMeMobile() {
       <div >
         <h1 className='about-me-heading' style={{ textAlign: "center" }}>ABOUT ME</h1>
         <p style={{ alignItems: "center" }}><WavingHandIcon />
-          Hi! I'm Shruti Shetty and I'm currently a fourth year student pursuing Bachelor in Computer engineering
-          at Fr. Conceicao Rodrigues College of Engineering, Bandra, Mumbai.
-          I am passionate about Software Development and Machine Learning.<br />
+        Hi! I'm Shruti Shetty and I'm currently working as Testing Analyst at TIAA Global Capabilities
+            in Mumbai.I graduated from Father Conceicao Rodrigues College popularly known as Father Agnels with a Bachelor in Computer Engineering in 2023.
+            I am passionate about Software Development and Machine Learning.<br />
 
         </p>
 

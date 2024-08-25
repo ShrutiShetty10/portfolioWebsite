@@ -43,12 +43,7 @@
     
     
 }
-.shadow-img{
-    display:flex;
-    flex-wrap:wrap;
-    box-shadow: "10px 10px 60px 10px rgba(112, 141, 157, 0.3)";
-    
-}
+
 .para-text{
     font-size: 30px;
     margin:0;

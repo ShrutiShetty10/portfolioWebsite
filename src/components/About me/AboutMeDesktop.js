@@ -11,9 +11,9 @@ export default function AboutMeDesktop() {
       <div >
         <h1 className='about-me-heading' style={{textDecorationColor:`${Colors.secondary}`}}>ABOUT ME</h1>
         <p><WavingHandIcon />
-            Hi! I'm Shruti Shetty and I'm currently a fourth year student pursuing Bachelor in Computer engineering
-            at Fr. Conceicao Rodrigues College of Engineering, Bandra, Mumbai.
-            I am passionate about Software Development and Machine Learning.<br/>
+        Hi! I'm Shruti Shetty and I'm currently working as Testing Analyst at TIAA Global Capabilities
+            in Mumbai.I graduated from Father Conceicao Rodrigues College popularly known as Father Agnels with a Bachelor in Computer Engineering in 2023.
+            I have always been passionate about exploring and learning about new technologies and continue to do so both at work and in my free time.<br/>
 
         </p>
 
